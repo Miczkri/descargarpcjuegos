@@ -1,0 +1,33 @@
+{
+  "site": {
+    "title": "descargarpcjuegos.com | Descargar juegos gratis para PC",
+    "base_url": "https://descargarpcjuegos.com",
+    "base_path": "/",
+    "trailing_slash": true,
+    "favicon": "/images/favicon.ico"
+  },
+
+  "settings": {
+    "pagination": 9
+  },
+
+  "metadata": {
+    "meta_description": "Descargarpcjuegos.com es la mejor página web para descargar juegos gratis para PC. ¡Todos tus juegos favoritos reunidos en un solo sitio!"
+  },
+
+  "google_tag_manager": {
+    "enable": true,
+    "gtm_id": "GTM-PG88GXFW"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "© 2026 descargarpcjuegos.com"
+  },
+
+  "contactinfo": {
+    "address": "Celso Emilio Ferreiro 74 <br/> Sádaba",
+    "email": "contacto@descargarpcjuegos.com",
+    "phone": "+34 686 758 491"
+  }
+}

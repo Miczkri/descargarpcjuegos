@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/*
+
+Sitemap: https://descargarpcjuegos.com/sitemap-index.xml

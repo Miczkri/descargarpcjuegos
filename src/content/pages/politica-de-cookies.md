@@ -1,71 +1,74 @@
 ---
-title: "Politique de cookies"
+title: "Política de cookies"
 meta_title: ""
 description: ""
 draft: false
 ---
 
-Cette politique de cookies a été mise à jour pour la dernière fois le 18/06/2025 et s’applique aux citoyens et aux résidents permanents légaux de l’Espace Économique Européen et de la Suisse.
+Esta política de cookies se actualizó por última vez el 18/06/2025 y se aplica a los ciudadanos y residentes permanentes legales del Espacio Económico Europeo y de Suiza.
 
-1. Introduction
+1. Introducción
 
-Notre site web, https://descargarpcjuegos.com (ci-après : « le site web ») utilise des cookies et autres technologies liées (par simplification, toutes ces technologies sont désignées par le terme « cookies »). Des cookies sont également placés par des tierces parties que nous avons engagées. Dans le document ci-dessous, nous vous informons de l’utilisation des cookies sur notre site web.
+Nuestro sitio web, https://descargarpcjuegos.com (en adelante, «el sitio web») utiliza cookies y otras tecnologías relacionadas (por simplicidad, todas estas tecnologías se denominan «cookies»). También se instalan cookies por parte de terceros con los que colaboramos. En el documento que figura a continuación, le informamos sobre el uso de cookies en nuestro sitio web.
 
-2. Que sont les cookies ?
+2. ¿Qué son las cookies?
 
-Un cookie est un petit fichier simple envoyé avec les pages de ce site web et stocké par votre navigateur sur le disque dur de votre ordinateur ou d’un autre appareil. Les informations qui y sont stockées peuvent être renvoyées à nos serveurs ou aux serveurs des tierces parties concernées lors d’une visite ultérieure.
+Una cookie es un pequeño archivo sencillo que se envía junto con las páginas de este sitio web y que su navegador almacena en el disco duro de su ordenador o de otro dispositivo. La información almacenada en ella puede reenviarse a nuestros servidores o a los servidores de los terceros correspondientes durante una visita posterior.
 
-3. Que sont les scripts ?
+3. ¿Qué son los scripts?
 
-Un script est un élément de code utilisé pour que notre site web fonctionne correctement et de manière interactive. Ce code est exécuté sur notre serveur ou sur votre appareil.
+Un script es un fragmento de código que se utiliza para que nuestro sitio web funcione correctamente y de forma interactiva. Este código se ejecuta en nuestro servidor o en su dispositivo.
 
-4. Qu’est-ce qu’une balise invisible ?
+4. ¿Qué es una baliza invisible?
 
-Une balise invisible (ou balise web) est un petit morceau de texte ou d’image invisible sur un site web, utilisé pour suivre le trafic sur un site web. Pour ce faire, diverses données vous concernant sont stockées à l’aide de balises invisibles.
+Una baliza invisible (o baliza web) es un pequeño fragmento de texto o imagen invisible en un sitio web, utilizado para realizar un seguimiento del tráfico en un sitio web. Para ello, se almacenan diversos datos sobre usted mediante balizas invisibles.
 
 5. Cookies
 
-5.1 Cookies techniques ou fonctionnels
+5.1 Cookies técnicas o funcionales
 
-Certains cookies assurent le fonctionnement correct de certaines parties du site web et la prise en compte de vos préférences en tant qu’internaute. En plaçant des cookies fonctionnels, nous vous facilitons la visite de notre site web. Ainsi, vous n’avez pas besoin de saisir à plusieurs reprises les mêmes informations lors de la visite de notre site web et, par exemple, les éléments restent dans votre panier jusqu’à votre paiement. Nous pouvons déposer ces cookies sans votre consentement.
+Algunas cookies garantizan el correcto funcionamiento de determinadas partes del sitio web y tienen en cuenta sus preferencias como usuario. Al colocar cookies funcionales, le facilitamos la visita a nuestro sitio web. De este modo, no tiene que introducir varias veces la misma información al visitar nuestro sitio web y, por ejemplo, los artículos permanecen en su cesta hasta que realice el pago. Podemos instalar estas cookies sin su consentimiento.
 
-5.2 Cookies statistiques
+5.2 Cookies estadísticas
 
-Nous utilisons des cookies statistiques afin d’optimiser l’expérience des internautes sur notre site web. Avec ces cookies statistiques, nous obtenons des informations sur l’utilisation de notre site web. Nous demandons votre permission pour placer des cookies statistiques.
+Utilizamos cookies estadísticas para optimizar la experiencia de los usuarios en nuestro sitio web. Con estas cookies estadísticas, obtenemos información sobre el uso de nuestro sitio web. Solicitamos su permiso para instalar cookies estadísticas.
 
-5.3 Cookies de marketing/suivi
+5.3 Cookies de marketing/seguimiento
 
-Les cookies de marketing/suivi sont des cookies ou toute autre forme de stockage local, utilisés pour créer des profils d’utilisateurs afin d’afficher de la publicité ou de suivre l’utilisateur sur ce site web ou sur plusieurs sites web dans des finalités marketing similaires.
+Las cookies de marketing/seguimiento son cookies o cualquier otra forma de almacenamiento local que se utilizan para crear perfiles de usuarios con el fin de mostrar publicidad o seguir al usuario en este sitio web o en varios sitios web con fines de marketing similares.
 
-6. Consentement
+6. Consentimiento
 
-Lorsque vous visitez notre site web pour la première fois, nous vous montrerons une fenêtre contextuelle avec une explication sur les cookies. Dès que vous cliquez sur « Enregistrer les préférences » vous nous autorisez à utiliser les catégories de cookies et d’extensions que vous avez sélectionnés dans la fenêtre contextuelle, comme décrit dans la présente politique de cookies. Vous pouvez désactiver l’utilisation des cookies via votre navigateur, mais veuillez noter que notre site web pourrait ne plus fonctionner correctement.
+Cuando visite nuestro sitio web por primera vez, le mostraremos una ventana emergente con una explicación sobre las cookies. Al hacer clic en «Guardar preferencias», nos autoriza a utilizar las categorías de cookies y extensiones que haya seleccionado en la ventana emergente, tal y como se describe en la presente política de cookies. Puede desactivar el uso de cookies a través de su navegador, pero tenga en cuenta que es posible que nuestro sitio web deje de funcionar correctamente.
 
-7.1 Gérez vos réglages de consentement
-Nous avons reçu une demande de confidentialité de votre navigateur. C’est pourquoi nous avons configuré vos réglages de confidentialité sur ce site web au niveau strictement nécessaire. Si vous souhaitez bénéficier de toutes les fonctionnalités, veuillez envisager d’exclure https://descargarpcjuegos.com de vos réglages de confidentialité.
-7. Activer/désactiver et supprimer les cookies
+7.1 Gestione sus ajustes de consentimiento
+Hemos recibido una solicitud de privacidad de su navegador. Por este motivo, hemos configurado sus ajustes de privacidad en este sitio web al nivel estrictamente necesario. Si desea disfrutar de todas las funcionalidades, considere excluir https://descargarpcjuegos.com de su configuración de privacidad.
 
-Vous pouvez utiliser votre navigateur internet pour supprimer automatiquement ou manuellement les cookies. Vous pouvez également spécifier que certains cookies ne peuvent pas être placés. Une autre option consiste à modifier les réglages de votre navigateur Internet afin que vous receviez un message à chaque fois qu’un cookie est placé. Pour plus d’informations sur ces options, reportez-vous aux instructions de la section Aide de votre navigateur.
+7. Activar/desactivar y eliminar las cookies
 
-Veuillez noter que notre site web peut ne pas marcher correctement si tous les cookies sont désactivés. Si vous supprimez les cookies dans votre navigateur, ils seront de nouveau placés après votre consentement lorsque vous revisiterez notre site web.
-8. Vos droits concernant les données personnelles
+Puede utilizar su navegador de Internet para eliminar las cookies de forma automática o manual. También puede especificar que no se instalen determinadas cookies. Otra opción consiste en modificar la configuración de su navegador de Internet para que reciba un mensaje cada vez que se instale una cookie. Para obtener más información sobre estas opciones, consulte las instrucciones de la sección de Ayuda de su navegador.
 
-Vous avez les droits suivants concernant vos données personnelles :
+Tenga en cuenta que es posible que nuestro sitio web no funcione correctamente si se desactivan todas las cookies. Si elimina las cookies de su navegador, se volverán a instalar tras su consentimiento cuando vuelva a visitar nuestro sitio web.
 
-    Vous avez le droit de savoir pourquoi vos données personnelles sont nécessaires, ce qui leur arrivera et combien de temps elles seront conservées.
-    Droit d’accès : vous avez le droit d’accéder à vos données personnelles que nous connaissons.
-    Droit de rectification : vous avez le droit à tout moment de compléter, corriger, faire supprimer ou bloquer vos données personnelles.
-    Si vous nous donnez votre consentement pour le traitement de vos données, vous avez le droit de révoquer ce consentement et de faire supprimer vos données personnelles.
-    Droit de transférer vos données : vous avez le droit de demander toutes vos données personnelles au responsable du traitement et de les transférer dans leur intégralité à un autre responsable du traitement.
-    Droit d’opposition : vous pouvez vous opposer au traitement de vos données. Nous obtempérerons, à moins que certaines raisons ne justifient ce traitement.
+8. Sus derechos en relación con los datos personales
 
-Pour exercer ces droits, veuillez nous contacter. Veuillez vous référer aux coordonnées au bas de cette politique de cookies. Si vous avez une plainte concernant la façon dont nous traitons vos données, nous aimerions en être informés, mais vous avez également le droit de déposer une plainte auprès de l’autorité de contrôle (l’autorité chargée de la protection des données).
-9. Coordonnées
+Usted tiene los siguientes derechos en relación con sus datos personales:
 
-Pour des questions et/ou des commentaires sur notre politique de cookies et cette déclaration, veuillez nous contacter en utilisant les coordonnées suivantes :
+    Tiene derecho a saber por qué son necesarios sus datos personales, qué se hará con ellos y durante cuánto tiempo se conservarán.
+    Derecho de acceso: tiene derecho a acceder a los datos personales que tenemos sobre usted.
+    Derecho de rectificación: tiene derecho en cualquier momento a completar, corregir, solicitar la supresión o bloquear sus datos personales.
+    Si nos da su consentimiento para el tratamiento de sus datos, tiene derecho a revocar dicho consentimiento y a solicitar la supresión de sus datos personales.
+    Derecho a transferir sus datos: tiene derecho a solicitar todos sus datos personales al responsable del tratamiento y a transferirlos en su totalidad a otro responsable del tratamiento.
+    Derecho de oposición: puede oponerse al tratamiento de sus datos. Accederemos a su solicitud, salvo que existan motivos que justifiquen dicho tratamiento.
+
+Para ejercer estos derechos, póngase en contacto con nosotros. Consulte los datos de contacto que figuran al final de esta política de cookies. Si tiene alguna reclamación sobre la forma en que tratamos sus datos, nos gustaría que nos lo comunicara, pero también tiene derecho a presentar una reclamación ante la autoridad de control (la autoridad encargada de la protección de datos).
+
+9. Datos de contacto
+
+Si tiene preguntas o comentarios sobre nuestra política de cookies y esta declaración, póngase en contacto con nosotros utilizando los siguientes datos de contacto:
 
 descargarpcjuegos
-Paris
-France
-Site web : https://descargarpcjuegos.com
-E-mail : admin@descargarpcjuegos.com
+París
+Francia
+Sitio web: https://descargarpcjuegos.com
+Correo electrónico: admin@descargarpcjuegos.com

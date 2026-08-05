@@ -15,3 +15,4 @@
 /noticias* /categorias/noticias 301
 /juegos-de-musica* /categorias/juegos-de-musica 301
 /juegos-moviles* /categorias/juegos-moviles 301
+/*feed/ /:splat 301
